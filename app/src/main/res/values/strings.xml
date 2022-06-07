@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Inicio</string>
+    <string name="app_nombre">Nombre</string>
+    <string name="app_apellido">Apellido</string>
+    <string name="app_email">Email</string>
+    <string name="app_password">Contraseña</string>
+    <string name="app_registro">Registrarse</string>
+</resources>
